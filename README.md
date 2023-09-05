@@ -1,10 +1,10 @@
-##Olá! Eu sou o Gabriel Miranda👋
+##Olá! Eu sou o Érike Resende👋
 
 
-- 🔭 Atualmente trabalho como Desenvolvedor do Software, e sou pesquisador no núcleo de pesquisa UFV-Nesped...
-- 🌱 Bacharel em Ciência da Computação 
+- 🔭 Graduando em Analise e desenvolvimento de sistemas
+- 🌱 Graduando em Educação Física
 <div align="center">
-  <a href="https://github.com/GabriellMiranda">
+  <a href="https://github.com/erikeresende">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabriellMiranda&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellMiranda&layout=compact&langs_count=7&theme=radical"/>
 </div>
@@ -23,10 +23,10 @@
 
   <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/gabriel_vfm_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/zend_music/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-miranda-472585202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gabriel-miranda-472585202/(https://www.linkedin.com/in/%C3%A9rike-augusto-de-sousa-resende-30a333193/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
