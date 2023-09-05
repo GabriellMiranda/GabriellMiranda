@@ -1,10 +1,10 @@
-##Olá! Eu sou o Gabriel Miranda👋
+##Olá! Eu sou o Érike Resende👋
 
 
-- 🔭 Atualmente trabalho como Desenvolvedor do Software, e sou pesquisador no núcleo de pesquisa UFV-Nesped...
-- 🌱 Bacharel em Ciência da Computação 
+- 🔭 Graduando em Analise e desenvolvimento de sistemas
+- 🌱 Graduando em Educação Física
 <div align="center">
-  <a href="https://github.com/GabriellMiranda">
+  <a href="https://github.com/erikeresende">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabriellMiranda&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellMiranda&layout=compact&langs_count=7&theme=radical"/>
 </div>
